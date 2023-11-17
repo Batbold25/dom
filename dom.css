@@ -18,27 +18,21 @@ button{
 button:hover{
     background-color: aquamarine;
 } */
-body{
+/* body{
     display: flex;
     flex-direction:row;
     justify-content: center;
     align-items: center;
     margin-top: 30vh;
     gap: 30px
-}
-#bodoh{
-    position: absolute;
-    margin-top: 15vh;
-    margin-right: 20vw;
+} */
+/* #bodoh{
     width: 100px;
     background-color: chartreuse;
     border: none;
     cursor: pointer;
 }
 #arilgah{
-    position: absolute;
-    margin-top: 15vh;
-    margin-right: 10vw;
     background-color: aqua  ;
     width: 100px;
     border: none;
@@ -48,4 +42,11 @@ input{
     width: 200px;
     height: 70px;
     font-size: 45px;
+} */
+/* p{
+    font-size: 30px;
+} */
+#box{
+    width: 250px;
+    height: 250px;
 }
